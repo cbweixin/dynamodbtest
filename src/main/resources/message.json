@@ -1,0 +1,128 @@
+{
+    "$type": "/company/PublicProfile",
+    "id": "djQuMToxMjMxNDc3MTg1NTkzNjQ6MWI4NWI0NDQ4Mg:c01faafe-9820-4972-a18f-7d180dc13e9e",
+    "externalIds": [{
+        "realmId": "123147718559364"
+    }],
+    "meta": {
+        "created": "2019-01-18T23:52:34.662Z",
+        "updated": "2019-01-18T23:52:34.662Z"
+    },
+    "active": true,
+    "published": true,
+    "companyName": "wei xin test 862171",
+    "logo": "s3:/test/feww",
+    "description": "camaro 3bb 1le afafaa",
+    "industryType": [{
+        "industryTypeName": "software development",
+        "sic": "42535s",
+        "sicDescription": "computers",
+        "naics": "12344"
+    }],
+    "servicesTag": ["testTag", "testTag2", "testtest"],
+    "contactMethods": [{
+        "primary": null,
+        "tags": [],
+        "primaryAddress": null,
+        "primaryEmail": null,
+        "emails": [{
+            "emailAddress": "my@email.com",
+            "primary": null,
+            "active": null
+        }],
+        "telephones": [{
+            "telephoneType": null,
+            "number": "4087189217",
+            "primary": null,
+            "active": null
+        }],
+        "addresses": [{
+            "freeFormAddressLine": "88 Nantucket Ct, Sunnyvale, CA 94087 USA",
+            "addressComponents": [{
+                "name": "addressLine",
+                "value": "88 Nantucket Ct"
+            }, {
+                "name": "city",
+                "value": "Sunnyvale"
+            }, {
+                "name": "state",
+                "value": "CA"
+            }, {
+                "name": "postalCode",
+                "value": "94087"
+            }, {
+                "name": "country",
+                "value": "USA"
+            }],
+            "geoLocation": null,
+            "primary": null,
+            "active": null,
+            "addressType": null
+        }],
+        "webSite": "scottscoolcompany.com",
+        "linkedin": "linkedin.co",
+        "twitter": null,
+        "facebook": "facebook.co",
+        "googleplus": null,
+        "pinterest": null,
+        "others": [{
+            "name": "Instagram",
+            "value": "http://instagram.co"
+        }, {
+            "name": "yelp",
+            "value": "yelp.co"
+        }, {
+            "name": "angieslist",
+            "value": "angieslist.co"
+        }],
+        "active": null
+    }, {
+        "primary": null,
+        "tags": [],
+        "primaryAddress": null,
+        "primaryEmail": null,
+        "emails": [{
+            "emailAddress": "new@other.com",
+            "primary": null,
+            "active": null
+        }],
+        "telephones": [{
+            "telephoneType": null,
+            "number": "4087351048",
+            "primary": null,
+            "active": null
+        }],
+        "addresses": [{
+            "freeFormAddressLine": "123 Local St, Mountain View, CA 94043 USA",
+            "addressComponents": [{
+                "name": "addressLine",
+                "value": "123 Local St"
+            }, {
+                "name": "city",
+                "value": "Mountain View"
+            }, {
+                "name": "state",
+                "value": "CA"
+            }, {
+                "name": "postalCode",
+                "value": "94043"
+            }, {
+                "name": "country",
+                "value": "USA"
+            }],
+            "geoLocation": null,
+            "primary": null,
+            "active": null,
+            "addressType": null
+        }],
+        "webSite": null,
+        "linkedin": null,
+        "twitter": null,
+        "facebook": null,
+        "googleplus": null,
+        "pinterest": null,
+        "others": [],
+        "active": null
+    }],
+    "realmId": "123147718559364"
+}
